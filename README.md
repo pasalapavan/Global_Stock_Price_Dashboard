@@ -1,4 +1,4 @@
-📊 Global Stock Price Dataset Analysis
+### 📊 Global Stock Price Dataset Analysis
 📌 Overview
 
 This project analyzes a Global Stock Price Dataset containing historical stock data from multiple companies, industries, and countries. The goal is to explore stock performance using Excel Pivot Tables and Visualizations to identify key trends and insights.
