@@ -3,7 +3,7 @@
 
 This project analyzes a Global Stock Price Dataset containing historical stock data from multiple companies, industries, and countries. The goal is to explore stock performance using Excel Pivot Tables and Visualizations to identify key trends and insights.
 
-📂 Dataset Features
+### 📂 Dataset Features
 
 Date – Trading date of the stock
 
@@ -19,7 +19,7 @@ Dividends & Stock Splits – Corporate actions
 
 Derived Columns – Year, month, day, profit/loss, etc.
 
-⚙️ Tools & Techniques
+### ⚙️ Tools & Techniques
 
 Excel – Pivot Tables, Charts, and Conditional Formatting
 
@@ -27,7 +27,7 @@ Data Cleaning & Transformation – Extracted date components, profit/loss calcul
 
 Visualizations – Trend lines, stock comparisons, and performance summaries
 
-📈 Key Insights
+### 📈 Key Insights
 
 Trends in closing prices across companies and sectors
 
@@ -37,7 +37,7 @@ Stock performance comparison by industry and country
 
 Profit/Loss evaluation for selected companies
 
-🚀 Applications
+### 🚀 Applications
 
 Financial forecasting & trend analysis
 
@@ -49,7 +49,7 @@ Foundation for machine learning and trading models
 
 (Add screenshots of your Excel charts here – e.g., stock trend line, pivot summary, etc.)
 
-🔗 Future Work
+### 🔗 Future Work
 
 Extend analysis using Python (Pandas, Matplotlib, Seaborn, Plotly)
 
